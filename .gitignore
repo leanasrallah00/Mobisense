@@ -1,0 +1,45 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Raw datasets
+bus_kaust/
+car_kaust/
+walk_kaust/
+*.csv
+*.xlsx
+*.parquet
+*.feather
+*.h5
+
+# Generated outputs and reports
+figures/
+map_html/
+results/
+results_pci/
+results_tracking/
+report/
+*.png
+*.jpg
+*.jpeg
+*.html
+*.pdf
+*.pptx
+
+# Large archives and notebook outputs
+*.zip
+*.tar
+*.tar.gz
+*.ipynb
+
+# Result data artifacts
+tracking_results*.json

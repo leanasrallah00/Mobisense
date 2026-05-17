@@ -1,0 +1,9 @@
+folium
+matplotlib
+numpy
+pandas
+python-pptx
+scikit-learn
+selenium
+webdriver-manager
+chromedriver-py
