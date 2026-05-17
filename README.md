@@ -14,6 +14,10 @@ Mobisense contains Python scripts for cellular, PCI/LTE/GNSS, and trajectory-bas
 
 Datasets, generated results, notebooks, figures, archives, and map outputs are intentionally excluded from Git.
 
+## Data
+
+Raw route datasets should remain local and are not versioned in this repository. Regenerate result files and figures from the scripts after placing the required city data folders beside the code.
+
 ## Setup
 
 ```bash
