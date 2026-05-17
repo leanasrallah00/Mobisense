@@ -10,7 +10,6 @@ Mobisense contains Python scripts for cellular, PCI/LTE/GNSS, and trajectory-bas
 - `generate_maps.py`, `generate_gps_maps.py`, `capture_maps.py`, `filter_maps.py`, and `screenshot_maps.py` generate and capture map visualizations.
 - `pci_split_audit.py` audits train/test splits.
 - `scripts/export_fused_train_test_metrics.py` exports fused train/test metrics.
-- `MAIDSTECH_API_REFERENCE.md` and `MAIDSTECH_PTC_API.md` document related API usage.
 
 Datasets, generated results, notebooks, figures, archives, and map outputs are intentionally excluded from Git.
 
